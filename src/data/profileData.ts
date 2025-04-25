@@ -21,7 +21,7 @@ export const profileData: ProfileData = {
   languages: ["English", "Bhojpuri", "Hindi"],
   hobbies: ["Cricket", "Traveling", "Reading"],
   about: "I am a dynamic and ambitious marketing professional with a strong passion for politics and community development. Hailing from a vibrant mid-range city, I take pride in my ability to connect with people and build meaningful relationships. I am a forward-thinking individual who values integrity, hard work, and creativity. In my free time, I enjoy exploring new ideas, engaging in thought-provoking discussions, and contributing to causes that make a positive impact. I am looking for a life partner who shares my enthusiasm for growth, values, and building a supportive and loving relationship.",
-  profileImage: "public/img5.jpeg",
+  profileImage: "img5.jpeg",
   contactEmail: "sumantk1100@gmail.com",
   contactPhone: "+91 8340659518",
   address: "Barharwa Kala, Kotwa, Bihar, India",
@@ -39,7 +39,7 @@ export const profileData: ProfileData = {
       },
       {
         relation: "Sister",
-        name: "Madhu kumari",
+        name: "Madhu Tiwari",
         age: undefined,
         occupation: "Housewife"
       }
@@ -49,33 +49,38 @@ export const profileData: ProfileData = {
     {
       degree: "Graduation",
       institution: "BRABU University, Muzaffarpur, Bihar",
-      year: "2018-2020"
+      year: ""
+    },
+    {
+      degree: "Master(PG)",
+      institution: "BRABU University, Muzaffarpur, Bihar",
+      year: "Pursuing"
     },
   ],
   gallery: [
     {
       id: 1,
-      url: "public/img1.jpeg",
+      url: "img1.jpeg",
       caption: "Office meeting in Vitenam, Thailnad"
     },
     {
       id: 2,
-      url: "public/img2.jpeg",
+      url: "img2.jpeg",
       caption: "Office meeting in Vitenam, Thailnad"
     },
     {
       id: 3,
-      url: "public/img3.jpeg",
+      url: "img3.jpeg",
       caption: "Trip to Thailand"
     },
     {
       id: 4,
-      url: "public/img4.jpeg",
+      url: "img4.jpeg",
       caption: "Family function"
     },
     {
       id: 5,
-      url: "public/img5.jpeg",
+      url: "img5.jpeg",
       caption: "Trip to Thailand"
     }
   ]

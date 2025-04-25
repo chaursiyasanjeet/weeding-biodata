@@ -41,14 +41,14 @@ const Education: React.FC<EducationProps> = ({ profileData }) => {
             <div className="bg-gray-50 p-8 rounded-lg shadow-sm border border-gray-100">
               <div className="space-y-6">
                 <div>
-                  <h4 className="text-lg font-semibold mb-2">Current Occupation</h4>
+                  <h4 className="text-lg font-semibold mb-2">Desgination</h4>
                   <p className="text-gray-700">{profileData.occupation}</p>
                 </div>
                 
-                <div>
+                {/* <div>
                   <h4 className="text-lg font-semibold mb-2">Annual Income</h4>
                   <p className="text-gray-700">{profileData.income}</p>
-                </div>
+                </div> */}
                 
                 <div>
                   <h4 className="text-lg font-semibold mb-2">Skills & Expertise</h4>
