@@ -25,6 +25,7 @@ export interface ProfileData {
   address: string;
   family: {
     father: string;
+    fatherContactNo: string;
     fatherOccupation: string;
     mother: string;
     motherOccupation: string;

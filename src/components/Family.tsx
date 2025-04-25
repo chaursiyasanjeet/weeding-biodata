@@ -27,6 +27,10 @@ const Family: React.FC<FamilyProps> = ({ profileData }) => {
                   <span className="text-gray-500 font-medium">Occupation:</span>
                   <span className="text-gray-800 text-right">{profileData.family.fatherOccupation}</span>
                 </div>
+                <div className="flex justify-between items-start">
+                  <span className="text-gray-500 font-medium">Contact no.:</span>
+                  <span className="text-gray-800 text-right">{profileData.family.fatherContactNo}</span>
+                </div>
               </div>
             </div>
             

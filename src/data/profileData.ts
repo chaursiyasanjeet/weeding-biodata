@@ -23,10 +23,11 @@ export const profileData: ProfileData = {
   about: "I am a dynamic and ambitious marketing professional with a strong passion for politics and community development. Hailing from a vibrant mid-range city, I take pride in my ability to connect with people and build meaningful relationships. I am a forward-thinking individual who values integrity, hard work, and creativity. In my free time, I enjoy exploring new ideas, engaging in thought-provoking discussions, and contributing to causes that make a positive impact. I am looking for a life partner who shares my enthusiasm for growth, values, and building a supportive and loving relationship.",
   profileImage: "img5.jpeg",
   contactEmail: "sumantk1100@gmail.com",
-  contactPhone: "+91 8340659518",
+  contactPhone: "+91 9852315186",
   address: "Barharwa Kala, Kotwa, Bihar, India",
   family: {
     father: "Ramjiwan thakur",
+    fatherContactNo: "+91 9852315186",
     fatherOccupation: "Farmer",
     mother: "Kanti devi",
     motherOccupation: "Housewife",
