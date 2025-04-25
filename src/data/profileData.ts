@@ -62,17 +62,17 @@ export const profileData: ProfileData = {
     {
       id: 1,
       url: "img1.jpeg",
-      caption: "Office meeting in Vitenam, Thailnad"
+      caption: "Office meeting in Vitenam"
     },
     {
       id: 2,
       url: "img2.jpeg",
-      caption: "Office meeting in Vitenam, Thailnad"
+      caption: "Office meeting in Vitenam"
     },
     {
       id: 3,
       url: "img3.jpeg",
-      caption: "Trip to Thailand"
+      caption: "Kolkata airport"
     },
     {
       id: 4,
