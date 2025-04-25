@@ -42,8 +42,11 @@ const Education: React.FC<EducationProps> = ({ profileData }) => {
               <div className="space-y-6">
                 <div>
                   <h4 className="text-lg font-semibold mb-2">Desgination</h4>
-                  <p className="text-gray-700">{profileData.occupation}</p>
+                  <p className="text-gray-700">{profileData.occupation}, <a href='https://jbpharma.com/' target='_blank' className='underline text-blue-600'><i><b>JB chemical & pharma Ltd.</b></i></a></p>
                 </div>
+                <p>
+                JB Pharma (J.B. Chemicals & Pharmaceuticals Ltd.) is a leading multinational pharmaceutical company from India, recognized for its excellence in quality, innovation, and patient-first healthcare solutions. With a strong legacy and global presence in over 30 countries
+                </p>
                 
                 {/* <div>
                   <h4 className="text-lg font-semibold mb-2">Annual Income</h4>
